@@ -1,0 +1,7 @@
+﻿  DVCFoodPantry.cpp
+C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\FinalProject-DVCFoodPantry\DVCFoodPantry.cpp(211,30): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\FinalProject-DVCFoodPantry\DVCFoodPantry.cpp(214,38): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\FinalProject-DVCFoodPantry\DVCFoodPantry.cpp(219,38): warning C4244: 'argument': conversion from 'unsigned __int64' to 'const unsigned int', possible loss of data
+  PackageTracking.cpp
+  Generating Code...
+  FinalProject-DVCFoodPantry.vcxproj -> C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\FinalProject-DVCFoodPantry\Debug\FinalProject-DVCFoodPantry.exe

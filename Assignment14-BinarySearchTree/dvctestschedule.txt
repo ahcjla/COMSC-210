@@ -1,0 +1,4 @@
+term	section	course	instructor	whenWhere
+Summer 2021	5102	ADJUS-120	Morrissey	NOT AVAILABLE
+Summer 2021	5103	ADJUS-120	Morrissey	NOT AVAILABLE
+Summer 2021	5112	ADJUS-121	Ramos	NOT AVAILABLE

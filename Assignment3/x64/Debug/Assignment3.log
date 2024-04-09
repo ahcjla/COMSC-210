@@ -1,0 +1,4 @@
+﻿  MyStaticArray.cpp
+C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\Assignment3\MyStaticArray.cpp(36,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\Assignment3\MyStaticArray.cpp(61,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Assignment3.vcxproj -> C:\Users\Aurelia A\Documents\Visual Studio 2019\DVC FA 2021\COMSC-210\PA\Assignment3\x64\Debug\Assignment3.exe
